@@ -1,4 +1,5 @@
-# Materialize.css-Travel-Agency
+#### Mobile friendly Materialize css-Travel-Agency
+#### Sample themes 
 Travel Agency Website using Materialize.css
 
 ![image](https://user-images.githubusercontent.com/23155302/46915551-2b594d80-cf7b-11e8-817e-16a22aab6e6e.png)
