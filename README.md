@@ -2,9 +2,7 @@
 #### Sample themes 
 Travel Agency Website using Materialize.css
 
-![image](https://user-images.githubusercontent.com/23155302/46915551-2b594d80-cf7b-11e8-817e-16a22aab6e6e.png)
 
-![image](https://user-images.githubusercontent.com/23155302/46915564-5d6aaf80-cf7b-11e8-98ac-920dfeff36e0.png)
 ***
 ![image](https://user-images.githubusercontent.com/23155302/41620138-c9265306-73d6-11e8-8264-62f0a36c1ee5.png)
 
